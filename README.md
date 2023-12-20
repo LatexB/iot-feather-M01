@@ -8,6 +8,8 @@ The idea behind this project was to exchange it between students group and work 
 
 Visit the [Wiki](https://github.com/LatexB/iot-feather-M01/wiki) to read more about the project.
 
+<img src="https://github.com/LatexB/iot-feather-M01/assets/95683261/7409bcf3-1658-4afa-ab7c-11c2aca952e2" width="55%" />
+
 # Features
 - Requesting data from OpenWeatherMap for outside weather data,
   - now featuring api requests for different cities
