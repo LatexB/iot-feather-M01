@@ -248,6 +248,7 @@ void loop()
     case 13:
         if(AMS_ACTIVE)
         {
+          AS7262_Read();
           Display_ShowData(VISIBLE_LIGHT_SENSOR);
         }
         else
